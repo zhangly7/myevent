@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './app/layout/App';
 import * as serviceWorker from './serviceWorker';
+// Add Semantic CSS
+import 'semantic-ui-css/semantic.min.css'
 
 const rootEl = document.getElementById('root');
 
